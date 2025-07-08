@@ -26,8 +26,8 @@ This is a simple, Dockerized chatbot REST API built with **Flask** and powered b
 
 ###  Clone the repo
 
--git clone [https://github.com/your-username/chatbot.git](https://github.com/sachithrangana96/chat-bot-backend.git)
--cd chat-bot-backend
+#### git clone [https://github.com/your-username/chatbot.git](https://github.com/sachithrangana96/chat-bot-backend.git)
+#### cd chat-bot-backend
 
 ###  Create env file
 Then add your Gemini API key inside .env
@@ -36,8 +36,8 @@ GEMINI_API_KEY=your_real_gemini_api_key_here
 
 ###  Install python depencies and Run
 
--pip install -r requirements.txt
--python app.py
+#### pip install -r requirements.txt
+#### python app.py
 
 
 
